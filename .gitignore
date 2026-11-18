@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+finova.db
+models/*.joblib
+reports/*.pdf
+.pytest_cache/
